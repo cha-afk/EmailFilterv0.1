@@ -1,5 +1,6 @@
 # EmailFilterv0.1
 This tool helps you with filtring your maillist/combo and extract every domain in a single file. 
+can support up to 20m+ email:pass/maillist
 # ForWindows
 # install python prefectly : 
 
