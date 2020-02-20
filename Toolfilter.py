@@ -1,5 +1,6 @@
 #!/usr/bin/python
- # -*-coding:Latin-1 -*
+ # -*-coding:cha-afk -*
+ #editer : cha-afk
 import sys,urllib2
 from colorama import *
 
