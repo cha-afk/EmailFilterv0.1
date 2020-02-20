@@ -1,5 +1,5 @@
 # EmailFilterv0.1
-This tool helps you with filtring your mailist and extract every domain in a single file. 
+This tool helps you with filtring your maillist/combo and extract every domain in a single file. 
 # ForWindows
 # install python prefectly : 
 
